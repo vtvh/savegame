@@ -2,6 +2,7 @@
 https://desktop.github.com/
 https://github.com/vtvh/savegame
 ###
+scoop.sh
 ninite.com
 ###
 
