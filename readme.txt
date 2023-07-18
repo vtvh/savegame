@@ -12,7 +12,7 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -y
 iex "& {$(irm get.scoop.sh)} -RunAsAdmin"
 scoop install git 
 
-scoop install erdtree wget curl curlie vim neovim
+scoop install erdtree wget curl curlie vim neovim qbittorrent
 scoop bucket add extras
 scoop install extras/vscode
 
